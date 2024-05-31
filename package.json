@@ -1,0 +1,26 @@
+{
+  "name": "2rabifantasi-myfirstatm",
+  "version": "2.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "my-command": "path/to/executable.js"
+},
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  }
+}
+ 
